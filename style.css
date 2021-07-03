@@ -1,0 +1,14 @@
+h1{
+    color: gold;
+    background-color: grey;
+}
+h2{
+    color: lightcoral;
+}
+p{
+    color: midnightblue;
+}
+.jk{
+    color: rgb(0, 0, 0);
+    background-color: rgba(241, 226, 17, 0.76);
+}
