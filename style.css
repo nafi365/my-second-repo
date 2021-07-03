@@ -12,3 +12,16 @@ p{
     color: rgb(0, 0, 0);
     background-color: rgba(241, 226, 17, 0.76);
 }
+.sada{
+    background-color:indianred;
+    margin-top: 10%;
+    padding: 30px;;
+    border:royalblue solid 50px ;
+   
+    border-radius: 30px;
+     color: orange;
+     font-family: 'Courier New', Courier, monospace;
+    }
+.kk{
+    color: rgb(20, 20, 19);
+}
